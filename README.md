@@ -33,7 +33,7 @@
 
 ### :desktop_computer: Desktop
   
-### :desktop_computer: Mobile
+### :iphone: Responsive
   
 
   
@@ -49,11 +49,12 @@ The following tools is used to build this project:
 
 <div align="center">
 
-|:globe_with_meridians: Web|
-|:---:|
-|ReactJS|
-|TypeScript|
-|SASS|  
+|:globe_with_meridians: Web|:ribbon: Styling|
+|:---:| :---:|
+|ReactJS| SASS|  
+|TypeScript| Bootstrap|  
+
+
 
 </div>
 
@@ -76,7 +77,4 @@ Developed with ❤️ by Lucas Yule 👋🏽 Contact me!
 
 </div>
 
----
-<div align="center">
-  <h1>#TOGETHER:rocket::robot:</h1>
-</div>
+
