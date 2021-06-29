@@ -31,6 +31,7 @@
 - Projeto desenvolvido para a seleção de estágio para Front-end. Escolhi o **ReactJS** para desenvolver o projeto por estar, atualmente, estudando essa tecnologia e por saber que a componentização do código facilitaria no desenvolvimento, além do uso dos States e Hooks para trabalhar com os dados recebidos de forma assíncrona. 
 - O React-Router possibilita a navegação entre as páginas da aplicação.
 - O Axios, pacote que utilizei para consumir as rotas, permite que uma URL base seja definida e todo o resto do consumo das rotas seja feito apenas com a mudança dos parâmetros da URL, além de possibilitar setar de forma fácil o token de autorização para consumo da rota no Header da requisição.
+- O ChartJS é uma lib que permite renderizar diversos tipos de gráficos de forma fácil e prática, além disso é possível trabalhar com esses gráficos como React Components, que traz dinamicidade ao código. 
 
 
 ---
