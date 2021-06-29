@@ -1,10 +1,11 @@
 <div align="right">
   
    [![Portuguese](https://www.countryflags.io/br/flat/32.png)](README.md)
-  
+
 </div>
+<h1 align='center'>Seleção Front-end Vagalume (ReactJS) </h1>
 <p align="center">
-  <img alt="PROJECT NAME" src="" width="500px"/>
+  <img alt="PROJECT NAME" src="logo.png" width="150px"/>
 </p>
 
 <p align="center"> 
@@ -26,6 +27,12 @@
 ---
 ## :information_source: About
 
+
+- Projeto desenvolvido para a seleção de estágio para Front-end. Escolhi o **ReactJS** para desenvolver o projeto por estar, atualmente, estudando essa tecnologia e por saber que a componentização do código facilitaria no desenvolvimento, além do uso dos States e Hooks para trabalhar com os dados recebidos de forma assíncrona. 
+- O React-Router possibilita a navegação entre as páginas da aplicação.
+- O Axios, pacote que utilizei para consumir as rotas, permite que uma URL base seja definida e todo o resto do consumo das rotas seja feito apenas com a mudança dos parâmetros da URL, além de possibilitar setar de forma fácil o token de autorização para consumo da rota no Header da requisição.
+
+
 ---
 ## :eye_speech_bubble: **Preview**
 
@@ -33,7 +40,17 @@
 
 ### :desktop_computer: Desktop
   
+  <img src="desktop-login.png" width="500px;"/>
+  <img src="desktop-menu.png" width="600px;"/>
+  <img src="desktop-userData.png" width="600px;"/>
+  <img src="desktop-userData-delay.png" width="600px;"/>
+  
 ### :iphone: Responsive
+   
+   <img src="mobile-login.png" width="200px;"/>
+  </br>
+   <img src="mobile-menu.png" width="300px;"/>
+   
   
 
   
@@ -53,6 +70,7 @@ The following tools is used to build this project:
 |:---:| :---:|
 |ReactJS| SASS|  
 |TypeScript| Bootstrap|  
+|Axios| ChartJS| 
 
 
 
@@ -65,7 +83,7 @@ The following tools is used to build this project:
 
 <a href="https://github.com/lucasyule2212">
  <img src="https://avatars1.githubusercontent.com/u/9919?s=200&v=4" width="100px;" alt="Profile Photo LUCAS YULE"/>
- <br/>
+  </br>
  <sub><b>Lucas Yule</b></sub>
 </a>
 
