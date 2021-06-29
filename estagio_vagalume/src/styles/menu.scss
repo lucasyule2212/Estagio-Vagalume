@@ -1,0 +1,49 @@
+
+.menu-page{
+  width: 100vw;
+  height: 100vh;
+  main{
+    width: 100%;
+    background-color: rgb(224, 224, 224);
+    height: 100vh;
+    margin-bottom: 30px;
+    div.clients-div{
+      background-color: white;
+      padding: 16px;
+      height: 96vh;
+      margin: 16px;
+      header{
+        margin-bottom: 20px;
+        h1{
+          font-size: 1.3rem;
+          color: #29292E;
+          font-weight: 500;
+        }
+      }
+      .clients-list{
+        li{
+          list-style: none;
+          button{
+            height: 8vh;
+          }
+        }
+      }
+      .chart-div{
+        display: flex!important;
+        width: 100vw;
+        max-width: 90vw;
+        justify-content: flex-start;
+        
+        canvas{
+          max-width: 90vw;
+        }
+        div{
+          &.spinner-border{
+            margin-top: 100px;
+            margin:0 auto;
+          }
+        }
+      }
+    }
+  }
+}
