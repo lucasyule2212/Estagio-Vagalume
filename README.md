@@ -58,7 +58,7 @@
 ---
 ## :arrow_forward: **Run**
 
-To run the project you need to clone or [`download`](https://github.com/lucasyule2212/NLW-LetMeAsk/archive/main.zip) this repository, have the Node Package Manager ([`NPM`](https://www.npmjs.com/get-npm)) or the YARN Package Manager installed ([`YARN`](https://yarnpkg.com/getting-started)).
+To run the project you need to clone or [`download`](https://github.com/lucasyule2212/Estagio-Vagalume/archive/main.zip) this repository, have the Node Package Manager ([`NPM`](https://www.npmjs.com/get-npm)) or the YARN Package Manager installed ([`YARN`](https://yarnpkg.com/getting-started)).
 
 ---
 ## :hammer_and_wrench: **Technologies**
